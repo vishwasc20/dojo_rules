@@ -7,9 +7,4 @@ React.render(
   document.getElementById('todoapp')
 );
 
-*Javascript
-*Angular
-*HTML
-*CSS
-*etc
-*Killing history using git rebase
+Javascript
